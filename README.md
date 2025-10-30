@@ -1,8 +1,5 @@
 # Awesome-Claude-Skills
 
-以下是按**类别（Category）**重新整理后的英文版清单：
-
----
 
 ## Foundational / Core Skill Libraries
 
