@@ -1,5 +1,7 @@
 # Awesome-Claude-Skills
 
+## AI Partner
+* [eze/ai-parter-chat](https://github.com/eze-is/ai-partner-chat): AI Partner Chat provides a personalized, context-aware conversational experience by integrating user profiles, AI profiles, and vectorized personal notes. 
 
 ## Foundational / Core Skill Libraries
 
