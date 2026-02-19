@@ -32,6 +32,12 @@
 
 ---
 
+## Finance & Crypto
+
+* [Octav-Labs/octav-api-skill](https://github.com/Octav-Labs/octav-api-skill): Claude skill for multi-chain crypto portfolio tracking. Query wallet holdings, DeFi positions, transaction history, and token analytics via natural language across 20+ blockchains.
+
+---
+
 ## Agent Creation & Integration
 
 * [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator): A meta-skill that enables Claude Code to automatically generate full agents.
