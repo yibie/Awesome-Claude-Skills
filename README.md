@@ -32,6 +32,12 @@
 
 ---
 
+## Personal Assistant & CLI Frameworks
+
+* [daxaur/openpaw](https://github.com/daxaur/openpaw): Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills including Telegram, Discord, Obsidian, and daily briefings. No daemon, no cloud, MIT licensed.
+
+---
+
 ## Agent Creation & Integration
 
 * [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator): A meta-skill that enables Claude Code to automatically generate full agents.
