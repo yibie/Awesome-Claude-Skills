@@ -28,7 +28,7 @@
 * [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill): A skill allowing Claude Code to use Playwright for browser automation.
 * [jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill): A skill that allows Claude to use FFUF for directory scanning.
 * [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills): n8n workflow skill set for Claude Code.
-* [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill): An iOS simulator skill that lets Claude Code control simulated devices.
+* [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper): X/Twitter data extraction skill & MCP server for AI coding agents. 20 tools for followers, tweets, replies, mentions, lists, hashtags, spaces & more.* [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill): An iOS simulator skill that lets Claude Code control simulated devices.
 
 ---
 
@@ -62,4 +62,3 @@
 * [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of skills for building custom Claude workflows.
 * [JayZeeDesign/awesome-claude-skills](https://github.com/JayZeeDesign/awesome-claude-skills): Another curated list of Claude Skills.
 * [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills): A curated list of skills and resources for LLMs and AI Agents, usable with Claude Code.
-
