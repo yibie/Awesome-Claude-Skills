@@ -62,4 +62,7 @@
 * [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of skills for building custom Claude workflows.
 * [JayZeeDesign/awesome-claude-skills](https://github.com/JayZeeDesign/awesome-claude-skills): Another curated list of Claude Skills.
 * [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills): A curated list of skills and resources for LLMs and AI Agents, usable with Claude Code.
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 
