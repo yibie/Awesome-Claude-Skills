@@ -23,6 +23,7 @@
 
 ## Developer Tools & Code Automation
 
+* [smorky850612/AuraKit](https://github.com/smorky850612/Aurakit): All-in-one fullstack Claude Code skill: 46 modes, 23 sub-agents, 6-layer security (OWASP+), 10 hooks, 8 languages, ~55% token savings. One /aura command builds, fixes, reviews, deploys.
 * [agentic-ai/claude-code](https://github.com/agentic-ai/claude-code): Example repository for Agentic AI’s Claude Code.
 * [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus): The Claude Code plugin hub featuring over 200 plugins.
 * [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill): A skill allowing Claude Code to use Playwright for browser automation.
