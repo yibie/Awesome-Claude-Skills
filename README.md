@@ -10,6 +10,7 @@
 * [simonw/claude-skills](https://github.com/simonw/claude-skills): The contents of the `/mnt/skills` directory in the Claude Code interpreter environment.
 * [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills): A comprehensive set of skills for Claude Code/AI.
 * [abubakarsiddik31/claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection): A collection of official and community-built Claude Skills.
+* [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills): Karpathy-inspired coding-agent guidelines packaged as an installable cross-agent skill.
 
 ---
 
@@ -62,4 +63,3 @@
 * [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of skills for building custom Claude workflows.
 * [JayZeeDesign/awesome-claude-skills](https://github.com/JayZeeDesign/awesome-claude-skills): Another curated list of Claude Skills.
 * [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills): A curated list of skills and resources for LLMs and AI Agents, usable with Claude Code.
-
