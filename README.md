@@ -57,6 +57,12 @@
 
 ---
 
+## Marketing & Social Media
+
+* [ndesv21/socialclaw](https://github.com/ndesv21/socialclaw): Agent-first social media publishing skill — schedule and publish posts across 13 platforms (X, LinkedIn, Instagram, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via a single workspace API key.
+
+---
+
 ## Curated & Awesome Lists
 
 * [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of skills for building custom Claude workflows.
