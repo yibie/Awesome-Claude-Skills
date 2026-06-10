@@ -29,6 +29,7 @@
 * [jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill): A skill that allows Claude to use FFUF for directory scanning.
 * [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills): n8n workflow skill set for Claude Code.
 * [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill): An iOS simulator skill that lets Claude Code control simulated devices.
+* [runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill): Run AI image, video, music/audio, and other model API jobs from Claude Code through the RunAPI CLI.
 
 ---
 
