@@ -38,6 +38,7 @@
 * [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica): A TypeScript framework for AI function-calling, with compiler-enhanced skills.
 * [GBSOSS/-mcp-to-skill-converter](https://github.com/GBSOSS/-mcp-to-skill-converter): A tool for converting MCP servers into Claude Skills.
 * [intellectronica/skillz](https://github.com/intellectronica/skillz): An MCP server for loading skills, compatible with non-Claude clients.
+* [zhangzeyu99-web/ariadne-loop](https://github.com/zhangzeyu99-web/ariadne-loop): A verifiable loop-spec skill for Codex, Claude Code, and OpenClaw workflows.
 
 ---
 
