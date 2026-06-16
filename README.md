@@ -38,6 +38,7 @@
 * [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica): A TypeScript framework for AI function-calling, with compiler-enhanced skills.
 * [GBSOSS/-mcp-to-skill-converter](https://github.com/GBSOSS/-mcp-to-skill-converter): A tool for converting MCP servers into Claude Skills.
 * [intellectronica/skillz](https://github.com/intellectronica/skillz): An MCP server for loading skills, compatible with non-Claude clients.
+* [agents-launch.lovable.app/submit-to-agentlaunch](https://agents-launch.lovable.app/SKILL.md): Lists or launches an AI agent on agentlaunch (a Product Hunt-style directory for agents) and upvotes agents via a public, no-auth REST API.
 
 ---
 
