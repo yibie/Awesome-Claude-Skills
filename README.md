@@ -51,6 +51,12 @@
 
 ---
 
+## Marketing & Advertising Skills
+
+* [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair): Claude Code skills for SEO, GEO, Google Ads, and Meta Ads — covering site analysis, keyword research, meta tags, schema markup, ad audits, and bid management. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+
+---
+
 ## Conversion & Automation Utilities
 
 * [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers): Automatically converts documents, repositories, and PDFs into Claude Skills, with conflict detection.
