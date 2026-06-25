@@ -27,6 +27,7 @@
 * [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus): The Claude Code plugin hub featuring over 200 plugins.
 * [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill): A skill allowing Claude Code to use Playwright for browser automation.
 * [jthack/ffuf_claude_skill](https://github.com/jthack/ffuf_claude_skill): A skill that allows Claude to use FFUF for directory scanning.
+* [Linked-API/linkedin-skills](https://github.com/Linked-API/linkedin-skills): Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 * [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills): n8n workflow skill set for Claude Code.
 * [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill): An iOS simulator skill that lets Claude Code control simulated devices.
 
