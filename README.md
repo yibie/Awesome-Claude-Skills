@@ -37,6 +37,7 @@
 * [FrancyJGLisboa/agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator): A meta-skill that enables Claude Code to automatically generate full agents.
 * [wrtnlabs/agentica](https://github.com/wrtnlabs/agentica): A TypeScript framework for AI function-calling, with compiler-enhanced skills.
 * [GBSOSS/-mcp-to-skill-converter](https://github.com/GBSOSS/-mcp-to-skill-converter): A tool for converting MCP servers into Claude Skills.
+* [TerminallyLazy/tree-ring-memory-skill](https://github.com/TerminallyLazy/tree-ring-memory-skill): A local-first memory lifecycle skill for agent recall, evidence capture, audit, forgetting, and consolidation.
 * [intellectronica/skillz](https://github.com/intellectronica/skillz): An MCP server for loading skills, compatible with non-Claude clients.
 
 ---
@@ -62,4 +63,3 @@
 * [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of skills for building custom Claude workflows.
 * [JayZeeDesign/awesome-claude-skills](https://github.com/JayZeeDesign/awesome-claude-skills): Another curated list of Claude Skills.
 * [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills): A curated list of skills and resources for LLMs and AI Agents, usable with Claude Code.
-
