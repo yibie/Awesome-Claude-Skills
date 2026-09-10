@@ -54,6 +54,8 @@
 ## Conversion & Automation Utilities
 
 * [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers): Automatically converts documents, repositories, and PDFs into Claude Skills, with conflict detection.
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio): MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling videos from editable plan.json timelines.
+
 
 ---
 
