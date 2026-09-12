@@ -51,6 +51,7 @@
 
 ---
 
+* [ranahaani/i-hate-editing](https://github.com/ranahaani/i-hate-editing): Claude Code skill that turns raw talking-head footage into a finished cut with local whisper.cpp + ffmpeg (model never watches pixels).
 ## Conversion & Automation Utilities
 
 * [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers): Automatically converts documents, repositories, and PDFs into Claude Skills, with conflict detection.
