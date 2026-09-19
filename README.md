@@ -50,6 +50,7 @@
 * [skills-directory/skill-codex](https://github.com/skills-directory/skill-codex): Claude Code skills that delegate prompts to OpenAI Codex.
 
 ---
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) - Developer-alpha CLI skill for finding local skills, PKM notes and encrypted knowledge, with separate grants for MCP access.
 
 ## Conversion & Automation Utilities
 
