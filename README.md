@@ -10,6 +10,7 @@
 * [simonw/claude-skills](https://github.com/simonw/claude-skills): The contents of the `/mnt/skills` directory in the Claude Code interpreter environment.
 * [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills): A comprehensive set of skills for Claude Code/AI.
 * [abubakarsiddik31/claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection): A collection of official and community-built Claude Skills.
+* [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop): Free MIT skill library with a deterministic intake router.
 
 ---
 
