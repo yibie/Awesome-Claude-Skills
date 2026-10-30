@@ -48,6 +48,7 @@
 * [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill): A skill that connects Claude Code directly with Google NotebookLM notebooks.
 * [adrianpuiu/claude-skills-marketplace](https://github.com/adrianpuiu/claude-skills-marketplace): A skill that makes Claude act as a project architect to generate planning documents.
 * [skills-directory/skill-codex](https://github.com/skills-directory/skill-codex): Claude Code skills that delegate prompts to OpenAI Codex.
+* [lucasbabur/jp-essay](https://github.com/lucasbabur/jp-essay): Claude Code skills for researching, drafting, and revising essays, with a source-based fact-checking pass and Python workflow checks.
 
 ---
 
